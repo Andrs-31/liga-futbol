@@ -1,0 +1,159 @@
+{
+  
+  "sponsors": [
+    {
+      "name": "NIUPI FC",
+      "logo": "img/NIU.png"
+    },
+    {
+      "name": "Lesionados FC",
+      "logo": "img/LES.png"
+    },
+    {
+      "name": "Humo y Magia",
+      "logo": "img/HYM.png"
+    },
+    {
+      "name": "Blancos FC",
+      "logo": "img/BLN.png"
+    }
+  ],
+  
+ 
+  "clasificacion": [
+    {
+      "posicion": 1,
+      "club": "NIU",
+      "logo": "img/NIU.png",
+      "jugados": 1,
+      "ganados": 1,
+      "empatados": 0,
+      "perdidos": 0,
+      "golesFavor": 12,
+      "golesContra": 7,
+      "diferencia": 5,
+      "puntos": 3
+    },
+    {
+      "posicion": 2,
+      "club": "BLN",
+      "logo": "img/BLN.png",
+      "jugados": 1,
+      "ganados": 1,
+      "empatados": 0,
+      "perdidos": 0,
+      "golesFavor": 16,
+      "golesContra": 12,
+      "diferencia": 4,
+      "puntos": 3
+    },
+    {
+      "posicion": 3,
+      "club": "LES",
+      "logo": "img/LES.png",
+      "jugados": 1,
+      "ganados": 0,
+      "empatados": 0,
+      "perdidos": 1,
+      "golesFavor": 12,
+      "golesContra": 16,
+      "diferencia": -4,
+      "puntos": 0
+    },
+    {
+      "posicion": 4,
+      "club": "BLN",
+      "logo": "img/BLN.png",
+      "jugados": 1,
+      "ganados": 0,
+      "empatados": 0,
+      "perdidos": 1,
+      "golesFavor": 7,
+      "golesContra": 12,
+      "diferencia": -5,
+      "puntos": 0
+    }
+  ],
+  
+  "proximosPartidos": [
+    {
+      "local": "HYM",
+      "logoLocal": "img/HYM.png",  
+      "vs": "NIU",
+      "logoVisitante": "img/NIU.png",  
+      "hora": " SAB 7 JUN / 4:00 PM"
+    },
+    {
+      "local": "BLN",
+      "logoLocal": "img/BLN.png",  
+      "vs": "LES",
+      "logoVisitante": "img/LES.png",  
+      "hora": "SAB 7 JUN / 5:00 PM"
+    },
+    {
+      "local": "HYM",
+      "logoLocal": "img/HYM.png",  
+      "vs": "LES",
+      "logoVisitante": "img/LES.png",  
+      "hora": "SAB 14 JUN / 4:00 PM"
+    },
+    {
+      "local": "BLN",
+      "logoLocal": "img/BLN.png",  
+      "vs": "NIU",
+      "logoVisitante": "img/NIU.png",  
+      "hora": " SAB 14 JUN / 5:00 PM"
+    }
+    
+  ],
+  "goleadores": [
+    {
+      "posicion": 1,
+      "nombre": "Abraham",
+      "goles": 12,
+      "club": "Lesionados fc"
+    },
+    {
+      "posicion": 2,
+      "nombre": "Masxibino",
+      "goles": 11,
+      "club": "Blancos fc"
+    },
+    {
+      "posicion": 3,
+      "nombre": "Francisco",
+      "goles": 5,
+      "club": "Blancos fc"
+    },
+    {
+      "posicion": 4,
+      "nombre": "Profugo",
+      "goles": 5,
+      "club": "NIUPI FC"
+    },
+    {
+      "posicion": 5,
+      "nombre": "Dniel",
+      "goles": 5,
+      "club": "Humo y Magia"
+    }
+  ],
+  "resultados": [
+    {
+      "local": "NIU",
+      "logoLocal": "img/NIU.png",  
+      "resultado": "12 - 7",
+      "visitante": "HYM",
+      "logoVisitante": "img/HYM.png", 
+      "fecha": "MAYO 31, 2025"
+    },
+    {
+      "local": "LES",
+      "logoLocal": "img/LES.png",  
+      "resultado": "12 - 16",
+      "visitante": "BLN",
+      "logoVisitante": "img/BLN.png", 
+      "fecha": "MAYO 31, 2025"
+    }
+  ]
+}
