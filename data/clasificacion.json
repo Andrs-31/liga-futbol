@@ -25,17 +25,44 @@
       "posicion": 1,
       "club": "NIU",
       "logo": "img/NIU.png",
-      "jugados": 1,
+      "jugados": 3,
       "ganados": 1,
       "empatados": 0,
-      "perdidos": 0,
-      "golesFavor": 12,
-      "golesContra": 7,
-      "diferencia": 5,
-      "puntos": 3
+      "perdidos": 2,
+      "golesFavor": 29,
+      "golesContra": 26,
+      "diferencia": 3,
+      "puntos": 5
     },
-    {
+     {
       "posicion": 2,
+      "club": "HYM",
+      "logo": "img/HYM.png",
+      "jugados": 2,
+      "ganados": 1,
+      "empatados": 0,
+      "perdidos": 1,
+      "golesFavor": 17,
+      "golesContra": 21,
+      "diferencia": -4,
+      "puntos": 4
+    },
+     {
+      "posicion": 3,
+      "club": "LES",
+      "logo": "img/LES.png",
+      "jugados": 2,
+      "ganados": 1,
+      "empatados": 0,
+      "perdidos": 1,
+      "golesFavor": 21,
+      "golesContra": 24,
+      "diferencia": -3,
+      "puntos": 4
+    },
+   
+    {
+      "posicion": 4,
       "club": "BLN",
       "logo": "img/BLN.png",
       "jugados": 1,
@@ -46,63 +73,24 @@
       "golesContra": 12,
       "diferencia": 4,
       "puntos": 3
-    },
-    {
-      "posicion": 3,
-      "club": "LES",
-      "logo": "img/LES.png",
-      "jugados": 1,
-      "ganados": 0,
-      "empatados": 0,
-      "perdidos": 1,
-      "golesFavor": 12,
-      "golesContra": 16,
-      "diferencia": -4,
-      "puntos": 0
-    },
-    {
-      "posicion": 4,
-      "club": "BLN",
-      "logo": "img/BLN.png",
-      "jugados": 1,
-      "ganados": 0,
-      "empatados": 0,
-      "perdidos": 1,
-      "golesFavor": 7,
-      "golesContra": 12,
-      "diferencia": -5,
-      "puntos": 0
     }
+   
   ],
   
   "proximosPartidos": [
     {
       "local": "HYM",
       "logoLocal": "img/HYM.png",  
-      "vs": "NIU",
-      "logoVisitante": "img/NIU.png",  
-      "hora": " SAB 7 JUN / 4:00 PM"
+      "vs": "BLN",
+      "logoVisitante": "img/BLN.png", 
+      "hora": " SAB 15 JUN / 4:00 PM"
     },
     {
       "local": "BLN",
       "logoLocal": "img/BLN.png",  
       "vs": "LES",
       "logoVisitante": "img/LES.png",  
-      "hora": "SAB 7 JUN / 5:00 PM"
-    },
-    {
-      "local": "HYM",
-      "logoLocal": "img/HYM.png",  
-      "vs": "LES",
-      "logoVisitante": "img/LES.png",  
-      "hora": "SAB 14 JUN / 4:00 PM"
-    },
-    {
-      "local": "BLN",
-      "logoLocal": "img/BLN.png",  
-      "vs": "NIU",
-      "logoVisitante": "img/NIU.png",  
-      "hora": " SAB 14 JUN / 5:00 PM"
+      "hora": "SAB 14 JUN / 5:00 PM"
     }
     
   ],
@@ -110,7 +98,7 @@
     {
       "posicion": 1,
       "nombre": "Abraham",
-      "goles": 12,
+      "goles": 15,
       "club": "Lesionados fc"
     },
     {
@@ -121,39 +109,39 @@
     },
     {
       "posicion": 3,
-      "nombre": "Francisco",
-      "goles": 5,
-      "club": "Blancos fc"
+      "nombre": "Daniel",
+      "goles": 11,
+      "club": "Humo y Magia"
     },
     {
       "posicion": 4,
-      "nombre": "Profugo",
-      "goles": 5,
+      "nombre": "Barret",
+      "goles": 9,
       "club": "NIUPI FC"
     },
     {
       "posicion": 5,
-      "nombre": "Dniel",
-      "goles": 5,
-      "club": "Humo y Magia"
+      "nombre": "Profugo",
+      "goles": 8,
+      "club": "NIUPI FC"
     }
   ],
   "resultados": [
     {
       "local": "NIU",
       "logoLocal": "img/NIU.png",  
-      "resultado": "12 - 7",
+      "resultado": "9 - 10",
       "visitante": "HYM",
       "logoVisitante": "img/HYM.png", 
-      "fecha": "MAYO 31, 2025"
+      "fecha": "JUNIO 7, 2025"
     },
     {
       "local": "LES",
       "logoLocal": "img/LES.png",  
-      "resultado": "12 - 16",
-      "visitante": "BLN",
-      "logoVisitante": "img/BLN.png", 
-      "fecha": "MAYO 31, 2025"
+      "resultado": "9 - 8",
+      "visitante": "NIU",
+      "logoVisitante": "img/NIU.png",
+      "fecha": "JUNIO 7, 2025"
     }
   ]
 }
